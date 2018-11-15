@@ -3,9 +3,6 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="JSX" />
   </component>
-  <component name="ProjectDictionaryState">
-    <dictionary name="feldmann" />
-  </component>
   <component name="TerminalProjectOptionsProvider">
     <option name="myStartingDirectory" value="$USER_HOME$/Projekte/capitan-test/capitan" />
   </component>
